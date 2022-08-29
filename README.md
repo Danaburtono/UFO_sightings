@@ -1,5 +1,5 @@
 # UFOs
-### Overview of UFO Sightings Project:
+## Overview of UFO Sightings Project:
 In this project, we were asked to build a table from the provided javascript array. We were also asked to build a dynamic webpage using HTML that would respond to input and provide information to users about UFOs. We used Bootstraps components to elevate the appearance of the website and provided a cleaner more sophisticated interface. The information provided on the website will allow users to navigate and parse through UFO data using filters. 
 
 <img width="1595" alt="Screen Shot 2022-08-28 at 10 32 10 PM" src="https://user-images.githubusercontent.com/107026442/187129823-fe25c8d2-968e-4588-bb52-4552178b348e.png">
